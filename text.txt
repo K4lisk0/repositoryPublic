@@ -1,0 +1,9 @@
+Kotov facility_A 33 22 12
+Mirov facility_A 12 12 12
+Torobov facility_A 44 55 66
+Tokov facility_B 31 44 10
+Izbov facility_B 44 23 54
+Tukov facility_B 55 66 87
+Sadov facility_C 34 43 22
+Kurtov facility_C 45 54 65
+Kuchev facility_C 56 65 77
